@@ -17,4 +17,4 @@ Backend :
 1. Razorpay
 
 Website : https://adulterated-bolt.000webhostapp.com/
-![image](https://user-images.githubusercontent.com/69666559/122248470-b5ed6a00-cee5-11eb-90ef-115deef3f607.png)
+
